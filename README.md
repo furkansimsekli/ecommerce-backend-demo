@@ -1,4 +1,4 @@
-# ecommerce-demo
+# ecommerce-backend-demo
 
 This is an example Node.js backend app that serves for simple shopping app.
 
